@@ -24,5 +24,3 @@ function debounce(func, wait) {
     };
 }
 
-// Export the debounce function for use in other modules
-export { debounce };
