@@ -1,4 +1,4 @@
-### NobleUtils - `debounce` Utility
+### NobleTools - `debounce` Utility
 
 ### Function:
 - `debounce(func, wait)`
