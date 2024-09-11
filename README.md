@@ -11,7 +11,7 @@
 
 ### Description:
 
-The `debounce` function from NobleUtils creates a debounced version of a given function, which delays its execution until after a specified wait time has passed since the last time the debounced function was invoked. This utility is ideal for optimizing performance, especially for high-frequency events like resizing or scrolling.
+The `debounce` function from NobleTools creates a debounced version of a given function, which delays its execution until after a specified wait time has passed since the last time the debounced function was invoked. This utility is ideal for optimizing performance, especially for high-frequency events like resizing or scrolling.
 
 ### How It Works:
 
