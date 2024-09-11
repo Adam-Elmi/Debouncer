@@ -95,4 +95,4 @@ window.addEventListener('scroll', debouncedScroll);
 
 ### Installation
 
-Installation details for NobleUtils will be provided soon.
+Installation details for NobleTools will be provided soon.
